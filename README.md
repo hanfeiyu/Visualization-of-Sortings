@@ -1,9 +1,11 @@
 # visualization_of_sortings
 ## Author: Hanfei Yu
 
-### Parameter: 
-#### 1: Random dataset
-#### 2: Sorted dataset
-#### 3: Reversed dataset
-#### 4: Almost-sorted dataset
-#### 5: Almost-reversed dataset
+### Examaple of execution with parameter: 
+
+[^python3 visualize.py] Random dataset by default
+[^python3 visualize.py 1] Enter 1 for Random dataset
+[^python3 visualize.py 2] Enter 2 for Sorted dataset
+[^python3 visualize.py 3] Enter 3 for Reversed dataset
+[^python3 visualize.py 4] Enter 4 for Almost-sorted dataset
+[^python3 visualize.py 5] Enter 5 for Almost-reversed dataset
