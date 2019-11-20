@@ -1,7 +1,7 @@
 # visualization_of_sortings
 ## Author: Hanfei Yu
 
-### Examaple of execution with parameter: 
+### Usage of execution with parameter: 
 
 `python3 visualize.py`: Random dataset by default  
 `python3 visualize.py 1`: Enter 1 for Random dataset  
