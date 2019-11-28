@@ -1,10 +1,11 @@
 # visualization_of_sortings  
 
-## Author: Hanfei Yu | hanfeiyu@uw.edu
-## Goh Gek Chuah Kenneth | ggoh@uw.edu  
+## Author: 
+### Hanfei Yu | hanfeiyu@uw.edu
+### Goh Gek Chuah Kenneth | ggoh@uw.edu  
 
 
-### Usage of execution with parameters: 
+#### Usage of execution with parameters: 
 
 `python3 visualize.py`: Random dataset by default  
 `python3 visualize.py 1`: Enter 1 for Random dataset  
