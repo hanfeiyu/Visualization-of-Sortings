@@ -1,4 +1,4 @@
-# visualization_of_sortings  
+# Visualization of Sortings  
 
 ## Author: 
 ### Hanfei Yu | hanfeiyu@uw.edu
@@ -6,6 +6,9 @@
 
 
 #### Usage of execution with parameters: 
+···
+cd ./src
+···
 
 `python3 visualize.py`: Random dataset by default  
 `python3 visualize.py 1`: Enter 1 for Random dataset  
