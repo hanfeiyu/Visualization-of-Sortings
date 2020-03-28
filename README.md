@@ -6,9 +6,9 @@
 
 
 #### Usage of execution with parameters: 
-···
+```
 cd ./src
-···
+```
 
 `python3 visualize.py`: Random dataset by default  
 `python3 visualize.py 1`: Enter 1 for Random dataset  
